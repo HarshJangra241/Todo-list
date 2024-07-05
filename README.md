@@ -1,1 +1,2 @@
-# Todo-list
+# ToDo-List
+ MERN STACK PROJECT
